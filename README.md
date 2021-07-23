@@ -7,7 +7,7 @@ Program with a given dataset:
 
 
 
-Outputof the program with same dataset:
+Output of the program with same dataset:
 
 ![image](https://user-images.githubusercontent.com/64833579/126795084-9d0bd315-789b-4337-8d1c-766b18f11fd9.png)
 
